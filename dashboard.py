@@ -75,6 +75,4 @@ def criar_interface(parent):
     canvas_widget = canvas.get_tk_widget()
     canvas_widget.pack(pady=20)
 
-    # Aqui você deve implementar a lógica para atualizar as informações do dashboard
-    # Consultar o banco de dados para obter os dados necessários
-    # Atualizar as labels e a lista de eventos
+
